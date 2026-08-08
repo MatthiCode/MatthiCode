@@ -46,3 +46,62 @@ My interests sit at the intersection of:
 
 ```text
 Development     ×     Design     ×     Creativity
+
+<div align="center">
+
+# Matthieu Bayle
+
+`Developer` · `Designer` · `Builder`
+
+<br>
+
+I build websites, interfaces and digital products.
+
+<br>
+
+<a href="https://mthbal.com">
+  <img src="https://img.shields.io/badge/Portfolio-mthbal.com-black?style=for-the-badge" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+### About
+
+I'm Matthieu — a developer & designer from France.
+
+I enjoy combining **code, design and creativity** to turn ideas into
+clean and functional digital experiences.
+
+<br>
+
+### Stack
+
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js`
+
+`Figma` `Blender` `DaVinci Resolve`
+
+`Git` `GitHub` `VS Code` `Vercel`
+
+<br>
+
+### Building
+
+**Hellow** — Web & SaaS
+
+**mthbal.com** — Personal portfolio
+
+**Experiments** — Ideas, prototypes & side projects
+
+<br>
+
+### Principles
+
+```text
+01  Build before perfecting.
+02  Learn by doing.
+03  Design matters.
+04  Ship things.
