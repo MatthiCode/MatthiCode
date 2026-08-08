@@ -44,7 +44,7 @@ to the final line of code.
 
 My interests sit at the intersection of:
 
-```text
+text
 Development     ×     Design     ×     Creativity
 
 <div align="center">
